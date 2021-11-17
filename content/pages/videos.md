@@ -1,0 +1,7 @@
+---
+content_type: page
+is_media_gallery: true
+title: Videos
+uid: 72adcf6a-963e-ae9e-f546-cca77e7d5361
+---
+{{< video-gallery-item href="/resources/video-1-expectations" section="Videos" title="Video 1: Expectations" description="" thumbnail="https://img.youtube.com/vi/b04CichdN5g/default.jpg" >}} {{< video-gallery-item href="/resources/video-2-phase-diagram" section="Videos" title="Video 2: Phase Diagram" description="" thumbnail="https://img.youtube.com/vi/94YsseQIXq0/default.jpg" >}} {{< video-gallery-item href="/resources/video-3-lift" section="Videos" title="Video 3: Lift" description="" thumbnail="https://img.youtube.com/vi/ZgYuF0SbPDM/default.jpg" >}} {{< video-gallery-item href="/resources/video-4-the-first-day" section="Videos" title="Video 4: The First Day" description="" thumbnail="https://img.youtube.com/vi/EGvqg0vUBmU/default.jpg" >}} {{< video-gallery-item href="/resources/video-5-introductions" section="Videos" title="Video 5: Introductions" description="" thumbnail="https://img.youtube.com/vi/uPsMwJ116lQ/default.jpg" >}} {{< video-gallery-item href="/resources/video6-ohms-law" section="Videos" title="Video 6: Ohms Law (online class)" description="" thumbnail="https://img.youtube.com/vi/3zuEzPzbNPg/default.jpg" >}} {{< video-gallery-item href="/resources/video7-graph-theory" section="Videos" title="Video 7: Graph Theory (online class)" description="" thumbnail="https://img.youtube.com/vi/Dy4KEXJsVIY/default.jpg" >}}
